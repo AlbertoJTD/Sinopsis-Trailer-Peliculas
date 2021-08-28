@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">Peliculas</string>
+
+    <string name="peliculas">Películas</string>
+    <string name="img">Imagen</string>
+    <string name="vacio"></string>
+
+    <!-- Titulos de las peliculas -->
+    <string name="i1">Avengers: Endgame</string>
+    <string name="i2">Spiderman 3</string>
+    <string name="i3">John Wick</string>
+    <string name="i4">Back To The Future</string>
+    <string name="i5">Batman: The dark Knight</string>
+
+    <string name="open">open</string>
+    <string name="close">close</string>
+
+    <string name="msj">!Bienvenido!</string>
+    <string name="msj2">Te invitamos a ver los trailers de las películas que tenemos disponibles... ¡Que lo disfrutes! </string>
+
+    <!-- Sinopsis -->
+    <string name="avengers">
+        Después de los eventos devastadores de Avengers: Infinity War, el universo
+        está enruinas debido a las acciones de Thanos, el Titán Loco. Con la ayuda de
+        los aliados que quedaron, los Vengadores deberán reunirse una vez más para
+        intentar deshacer sus acciones y restaurar el orden en el universo de una vez
+        por todas, sin importar cuáles son las consecuencias... Cuarta y última entrega
+        de la saga Vengadores.
+    </string>
+
+    <string name="spiderman">
+        Peter Parker consigue finalmente un equilibrio entre su devoción por Mary Jane
+        y sus deberes como superhéroe. Pero una tormenta amenaza en el horizonte. Cuando
+        su traje cambia de repente, volviéndose negro y mejorando sus poderes, Peter
+        también se transforma sacando el lado más oscuro y vengativo de su personalidad.
+        Bajo la influencia de este nuevo traje, Peter se vuelve demasiado confiado y
+        comienza desatender a la gente que realmente le quiere y se preocupa por él.
+        Obligado a elegir entre el tentador poder que le proporciona el nuevo traje y
+        el compasivo héroe que solía ser, Peter deberá vencer sus propios demonios, mientras
+        dos de sus más temidos enemigos, Venom y el Hombre de Arena utilizarán sus poderes
+        para calmar su sed de venganza, amenazando a Peter y a toda la gente que quiere.
+    </string>
+
+    <string name="johnwick">
+        John Wick, interpretado por Keanu Reeves (Matrix, Pactar con el diablo) es un antiguo
+        asesino a sueldo que observa impasible cómo un ladrón roba su coche, un Ford Mustang
+        del 69, y mata al perro que su mujer le regaló. Wick entonces persigue al delincuente
+        y descubre que su padre es un jefe mafioso de Nueva York y que ha puesto una alta
+        recompensa a cambio de su cabeza. Casualmente la persona contratada para darle caza es
+        un sicario, encarnado por Willem Dafoe (Spiderman), un gran amigo y ex compañero suyo,
+        que le recomendó abandonar la peligrosa profesión después de la muerte de su mujer.
+    </string>
+
+    <string name="volveralfuturo">
+        Marty McFly es un adolescente amigo de Doc, un científico a los que todos menos él
+        toman por chiflado. Cuando Doc crea una máquina para viajar en el tiempo en forma de
+        un automóvil deportivo, Marty viaja accidentalmente al año 1955. Allí se encontrará
+        con sus padres cuando eran jóvenes, pero impide su primer encuentro. A partir de entonces,
+        y con el tiempo en su contra, McFly deberá conseguir que se enamoren para que se casen
+        y él no deje de existir.
+    </string>
+
+    <string name="batman">
+        Con la ayuda del teniente James Gordon y el Fiscal de Distrito Harvey Dent, Batman se
+        propone destruir la delincuencia organizada para el bien de Ciudad Gótica. El trío demuestra
+        ser eficaz, pero pronto se ve presa de una creciente mente criminal: conocido como el Guasón,
+        quien empuja a Ciudad Gótica hacia la anarquía y fuerza al Caballero Oscuro a estar más cerca
+        de cruzar la delgada línea entre héroe y vigilante.
+    </string>
+
+</resources>
